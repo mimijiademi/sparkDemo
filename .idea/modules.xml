@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/CdnStatics/CdnStatics.iml" filepath="$PROJECT_DIR$/sparkCore/CdnStatics/CdnStatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/practice/practice.iml" filepath="$PROJECT_DIR$/sparkCore/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkCore.iml" filepath="$PROJECT_DIR$/sparkCore/sparkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkDemo.iml" filepath="$PROJECT_DIR$/sparkDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparkSql.iml" filepath="$PROJECT_DIR$/sparkSql/sparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStream/sparkStream.iml" filepath="$PROJECT_DIR$/sparkStream/sparkStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStream/streamingWordCount/streamingWordCount.iml" filepath="$PROJECT_DIR$/sparkStream/streamingWordCount/streamingWordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStream/streamingkafka/streamingkafka.iml" filepath="$PROJECT_DIR$/sparkStream/streamingkafka/streamingkafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/udaf/udaf.iml" filepath="$PROJECT_DIR$/sparkSql/udaf/udaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/wordCount/wordCount.iml" filepath="$PROJECT_DIR$/sparkCore/wordCount/wordCount.iml" />
+    </modules>
+  </component>
+</project>
